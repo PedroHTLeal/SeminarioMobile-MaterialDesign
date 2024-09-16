@@ -4,7 +4,14 @@ O seminário **Material Design** tem como objetivo explorar os princípios e dir
 - Introdução ao Material Design
 - Princípios do Material Design
 - Exemplo de Aplicação com os 3 Princípios do 
-- Boas práticas e exemplos
+- Recursos do Android Design Guidelines
+
+## Integrantes do Grupo
+Alunos de 4° período de Ciência da Computação 
+- Scrum Master = Pedro Leal (01591056)
+- Analista de Dados e Negócios = Kaio Vitor (01635673)
+- Analista Desenvolvedor = Thiago Silva (01643015)
+- Gerente de Configuração = João Vitor Siqueira (01590594)
 
 ## O que é UI Design
 UI Design (Design de Interface do Usuário) refere-se ao design visual e interativo de uma aplicação ou site, focando em elementos como botões, ícones, tipografia, cores e layouts. É responsável por garantir que o usuário tenha uma interação agradável e compreensível com o produto.
