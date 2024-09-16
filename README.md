@@ -29,9 +29,3 @@ Os elementos fundamentais do projeto baseado em impressão são: tipografia, gra
 ![image](https://github.com/user-attachments/assets/cf3f63da-6973-4d0c-84a2-433e30724525)
 ### Movimento proporciona significado
 As animações não são apenas decorativas; elas transmitem significado, conectam elementos e orientam os usuários na interface. As transições suaves e naturais ajudam a entender a relação entre diferentes componentes e ações, proporcionando uma sensação de continuidade.
-
-## Grupo 
-Kaio Vitor 01635673, Pedro Leal 01591046, Thiago Silva 01643015 e João Vitor Siqueira 01590594
-
-## Curso
-Ciência da Computação
