@@ -24,7 +24,7 @@ Os elementos fundamentais do projeto baseado em impressão são: tipografia, gra
 As animações não são apenas decorativas; elas transmitem significado, conectam elementos e orientam os usuários na interface. As transições suaves e naturais ajudam a entender a relação entre diferentes componentes e ações, proporcionando uma sensação de continuidade.
 
 ## Grupo 
-Kaio Vitor, Pedro Leal, Thiago Silva e João Vitor Siqueira 
+Kaio Vitor 01635673, Pedro Leal 01591046, Thiago Silva 01643015 e João Vitor Siqueira 01590594
 
 ## Curso
 Ciência da Computação
